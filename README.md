@@ -49,6 +49,3 @@ It focuses on analyzing transactional data, extracting insights, segmenting cust
 - Jupyter Notebook
 - Power BI
 
----
-
-## 📂 Project Structure
